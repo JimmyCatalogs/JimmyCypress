@@ -1,0 +1,9 @@
+{
+  "dynalogVersion": "41878",
+  "categoryName": "Davie",
+  "phoneNumber": "888.442.0404",
+  "viewports": [
+    { "width": 1920, "height": 1080, "mobile": false},
+    { "width": 375, "height": 812, "mobile": true}
+  ]
+}

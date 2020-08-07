@@ -6,7 +6,7 @@ describe('digital.catalogshub test suite', function () {
     
     beforeEach(function () { // runs before each test
         // Load data from json file
-        cy.fixture('example').then(function (data) {
+        cy.fixture('default').then(function (data) {
             this.data = data
         })
     })
