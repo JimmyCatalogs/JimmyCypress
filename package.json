@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cypress_open": "node_modules\\.bin\\cypress open",
-    "cypress_run": "node_modules\\.bin\\cypress run"
+    "cypress_run": "node_modules\\.bin\\cypress run",
+    "cypress_record": "node_modules\\.bin\\cypress run --record --key 7ac3cd79-237a-4d06-ad7d-3f62ef12ec04"
   },
   "author": "JimmyW",
   "license": "ISC",
