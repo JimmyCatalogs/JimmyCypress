@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress open": "node_modules\\.bin\\cypress open",
-    "cypress run": "node_modules\\.bin\\cypress run"
+    "cypress_open": "node_modules\\.bin\\cypress open",
+    "cypress_run": "node_modules\\.bin\\cypress run"
   },
   "author": "JimmyW",
   "license": "ISC",
