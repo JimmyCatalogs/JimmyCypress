@@ -1,4 +1,4 @@
 node_modules
 cypress.env.json
-cypress\videos\examples
-cypress\screenshots
+cypress/videos/examples
+cypress/screenshots
