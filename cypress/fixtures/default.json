@@ -1,4 +1,11 @@
 {
-  "categoryName": "Used - SUV",
-  "videoTitle": "A conversation on being Black in America with @Angela Rye"
+  "dynalogVersion": "100035",
+  "dynalogVersionCallForm": "100037",
+  "phoneNumber": "123-456-7890",
+  "categoryName": "Bedding",
+  "viewports": [
+    { "width": 1920, "height": 1080, "mobile": false},
+    { "width": 375, "height": 812, "mobile": true}
+  ]
+
 }
