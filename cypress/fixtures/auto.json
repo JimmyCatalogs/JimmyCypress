@@ -1,6 +1,9 @@
 {
-    "dynalogVersion": "30696",
+    "dynalogVersion": "100045",
     "viewports": [
+      { "width": 375, "height": 812, "mobile": true},
         { "width": 1920, "height": 1080, "mobile": false}
-      ]
+        
+      ],
+    "lastPage": 64
 }
